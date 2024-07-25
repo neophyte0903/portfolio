@@ -5,7 +5,7 @@ import Projects from './components/Projects';
 const App = () => {
     const githubUsername = 'neophyte0903'; // Replace with your GitHub username
     const selectedRepos = [
-        'IPL_analytics', 'MiniProjectThree', 'pythonprojects', 'Codementor-webScrapper', 'tailwindCards', 'noteTakingApp', 'CodeClause_Voice_Assistant_using_Python', 'CodeClause_AlarmClock_with_GUI', 'CodeClause_URL_Shortener_in_python', 'DiceGame', 'FoodDelivery-SIte'
+        'IPL_analytics', 'MiniProjectThree', 'pythonprojects', 'Codementor-webScrapper', 'tailwindCards', 'noteTakingApp', 'CodeClause_Voice_Assistant_using_Python', 'CodeClause_AlarmClock_with_GUI', 'CodeClause_URL_Shortener_in_python', 'DiceGame', 'FoodDelivery-SIte','aircanvas'
     ]; // Replace with your selected repository names
 
     return (
